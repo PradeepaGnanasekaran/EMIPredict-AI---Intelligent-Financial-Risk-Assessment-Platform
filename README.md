@@ -31,22 +31,23 @@ This solution helps financial institutions automate loan risk assessment and pro
 - 🧭 Modular ML pipeline
 - ☁️ Streamlit Cloud ready
 
-  
----
-
 ## ⚙️ Installation & Setup
 
 ### 1️⃣ Clone the repository
 git clone https://github.com/your-username/EMIPredict-AI.git
 cd EMIPredict-AI
+
+
 ###2️⃣ Create and activate virtual environment
 python -m venv venv
 venv\Scripts\activate        # Windows
 # OR
 source venv/bin/activate     # Mac / Linux
+
+
 ###3️⃣ Install dependencies
 pip install -r requirements.txt
 
+u can checkit out this if u have any issue
+https://drive.google.com/file/d/1hE9Uk18lEvzSb3Pg-rTZXDEWbiQt_Ir7/view?usp=sharing
 
-
-## 📂 Project Structure
